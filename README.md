@@ -1,0 +1,1 @@
+# opencv-slider-captcha-solver
