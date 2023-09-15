@@ -1,1 +1,1 @@
-# opencv-slider-captcha-solver
+# OpenCV Slider CAPTCHA Solver
